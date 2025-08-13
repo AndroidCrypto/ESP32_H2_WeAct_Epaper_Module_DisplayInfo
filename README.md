@@ -2,15 +2,15 @@
 
 This is the accompanying repository for my article "Getting Started with a 2.9-inch Epaper display connected to an ESP32-H2 Supermini device" available here: 
 
-![Image 1](./images/esp32_c6_epaper_04_600w.png)
+![Image 1](./images/esp32_h2_epaper_01_600w.png)
 
 The display comes in 2 variants, this is the "Black & White" version:
 
-![Image 2](./images/esp32_c6_epaper_02_600w.png)
+![Image 2](./images/weact_29_epaper_bw_01_front_600w.png)
 
 The display comes in 2 variants, this is the "Red, Black & White" version:
 
-![Image 3](./images/esp32_c6_epaper_01_600w.png)
+![Image 3](./images/weact_29_epaper_rbw_01_front_600w.png)
 
 ## Required Libraries
 ````plaintext
