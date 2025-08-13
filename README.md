@@ -38,4 +38,6 @@ Nr name  color   ESP32-H2 pin
 7  GND   black   GND
 8  VCC   red     VCC is 3.3 volt, not 5 volt !
 ````
+Back side of the display:
 
+![Image 2](./images/weact_29_epaper_bw_01_back_600w.png)
