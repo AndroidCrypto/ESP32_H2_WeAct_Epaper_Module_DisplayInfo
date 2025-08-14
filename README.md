@@ -1,6 +1,6 @@
 # ESP32-H2 WeAct 2.9-inch Epaper Module Display-Info
 
-This is the accompanying repository for my article "Getting Started with a 2.9-inch Epaper display connected to an ESP32-H2 Supermini device" available here: 
+This is the accompanying repository for my article "Getting Started with a 2.9-inch Epaper display connected to an ESP32-H2 Supermini device" available here: https://medium.com/@androidcrypto/16709f47ae23
 
 ![Image 1](./images/esp32_h2_epaper_01_600w.png)
 
